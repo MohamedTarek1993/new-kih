@@ -1,0 +1,156 @@
+footer .financity-footer-wrapper {
+  background-color: #1d2746;
+  padding-top: 30px;
+  padding-bottom: 0px;
+}
+footer .logo_footer {
+  width: 260px;
+}
+footer .contact_footer li {
+  display: flex;
+  margin-bottom: 10px;
+}
+footer .contact_footer li p,
+footer .contact_footer li p a {
+  color: #fff;
+  margin-bottom: 8px;
+}
+
+.financity-copyright-container {
+  background-color: #9c7975;
+}
+.financity-copyright-container p {
+  color: #fff;
+  text-align: center;
+  margin-bottom: 0;
+}
+.vission_sec {
+}
+.vission_sec .gdlr-core-feature-box {
+  background-color: transparent;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  height: 640px;
+}
+.vission_sec .gdlr-core-feature-box-item .gdlr-core-feature-box-item-icon {
+  color: #212529;
+}
+.vission_sec
+  .second
+  .gdlr-core-feature-box-item
+  .gdlr-core-feature-box-item-icon {
+  color: #fff;
+}
+.vission_sec
+  .second
+  .gdlr-core-feature-box-item
+  .gdlr-core-feature-box-item-title {
+  color: #fff;
+}
+.vission_sec .second .gdlr-core-feature-box-item .gdlr-core-feature-box-item-title {
+    color: #fff;
+}
+.vission_sec .gdlr-core-feature-box-item .gdlr-core-feature-box-item-title {
+  color: #212529;
+}
+.vission_sec .second .gdlr-core-feature-box-item .gdlr-core-feature-box-item-content {
+  color: #fff;
+}
+.vission_sec .gdlr-core-feature-box-item .gdlr-core-feature-box-item-content {
+  color: #525a70;
+}
+.vission_sec
+  .gdlr-core-feature-box-item
+  .gdlr-core-feature-box-item-content
+  ul {
+  list-style: none;
+  display: flex;
+  gap: 10px;
+  align-items: start;
+  justify-content: start;
+  flex-direction: column;
+  margin: 0;
+}
+.vission_sec
+  .gdlr-core-feature-box-item
+  .gdlr-core-feature-box-item-content
+  ul
+  li {
+  text-align: justify;
+  font-size: 14px;
+}
+.value_title{
+    background-color: #e6e6e6;
+  padding: 40px 0px 10px 0px !important;
+}
+.value_title h3{
+    color: #00224f !important;
+    font-size: 30px !important;
+    margin-top: 20px !important;
+    text-align: justify;
+    padding: 0px 100px;
+}
+.value_sec{
+    padding: 6px 0px 28px 0px !important;
+}
+.value_sec .gdlr-core-pbf-background{
+    background-color: #e6e6e6;
+}
+
+.value_sec .gdlr-core-column-service-title-wrap h3{
+color: #00224f !important;
+}
+
+.value_sec .gdlr-core-column-service-content{
+text-align: justify;
+}
+.gdlr-core-toggle-box-style-box-icon .gdlr-core-toggle-box-item-icon{
+    background-color: #9c7975;
+    border-color: #9c7975;
+}
+
+.team_sec h3{
+    color: #00224f !important;
+    font-size: 30px !important;
+    margin-top: 20px !important;
+    text-align: justify;
+    padding: 20px 100px 40px;
+
+}
+
+.gdlr-core-hover-box-content-wrap{
+
+}
+.gdlr-core-hover-box-content-wrap h3{
+color: #00224f !important;
+}
+.gdlr-core-hover-box-content-wrap p{
+color: #9c7975 !important;
+}
+
+.about_sec p{
+    text-align: justify;
+
+}
+.about_sec .gdlr-core-pbf-wrapper{
+padding: 60px 0px 0px 0px ;
+}
+.financity-logo{
+    padding: 0;
+}
+.gdlr-core-pbf-wrapper {
+}
+
+#rev_slider_1_1 .uranus.tparrows:before{
+    display: none !important;
+}
+.tp-bullets{       
+    display: none !important;
+}
+
+
+@media only screen and (max-width: 600px){
+    .team_sec h3 , .value_title h3{
+        padding: 20px;
+        font-size: 20px !important;
+    }
+}
